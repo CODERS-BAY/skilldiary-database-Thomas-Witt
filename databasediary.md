@@ -1,3 +1,7 @@
+27.02.
+
+Heute habe ich die Hausübung (SchoolERM) am Whiteboard präsentiert. Am restlichen Vormittag haben wir die Aufgabe "Library" bekommen. Abgabe war 12:00 Uhr. Es war stressig, und ich habe das ERM nicht mit allen Atributen fertig bekommen. Mir ist zu Hause arbeiten ohne Zeitdruck definitiv lieber. Am Nachmittag haben wir "HotelERM" aufgetragen bekommen, das wir bis nächstes Mal als Hausübung fertig machen sollen. Das ER und ein erster Schmierzettel-versuch ist schon fertig. Dadurch sollte eigendlich zu Hause nicht mehr all zu Viel zu tun sein. Hoffentlich...
+
 Databasediary am 20.02.2020
 
 Heute habe ich in der Früh die Hausübung über e-learining mit den Anderen besprochen. Da wir jemanden wählen mussten, der die Hausübung vorträgt, und Ben sich gemeldet hat, haben wir seine Version der Lösung auf das Whiteboard übertragen. Da ich eine relativ schöne Schrift habe, habe ich geschrieben, was mir Ben angesagt hat. Aus meiner Sicht war es -relativ richtig-, was sich Ben ausgedacht hat. Das haben wir dann mit Stefan besprochen und korrigiert.
