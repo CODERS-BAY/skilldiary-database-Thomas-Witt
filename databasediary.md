@@ -1,3 +1,20 @@
+02.09.
+
+Regeln:
+- Bei Kreuzenden Linien: Brücken machen
+- Entitäten sind in Einzahl anzugeben
+
+Fachbegriffe:
+-Integrität: 
+
+
+
+Für Praktikum: An 11. bis 22 Jänner
+Karriere.at
+devjobs.at
+
+
+
 26.08.2020
 
 Today i was only able to start my first database-day at 13:00, because i had to go to a doctor in Freistadt before. 
