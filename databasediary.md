@@ -1,3 +1,11 @@
+09.09.
+Today Stefan showed us on the excercise "hotel" how he identifies Entities and how he sets relationships. (He thought he gave us this as homework, but we all can't remember him saying so. Acording to him, this has never happened to him (Speaking of Stefan: I realy doubt, that he reeds our diaries. At least not right away. Stefan: if you are reading this before 16.09.2020, come to me and tell me "I read it", and then i will by you a sixpac of Freistädter Bier)). 
+After that we made ERDs and RMs of the excercises "E-learning" and "Cinema". 
+I learned, that when you have a 1-n relationship, the entity which has the n gets a foreign key of the entity which has the 1.
+Also if an entity has a foreign key, it absolutely has to have a relation to the entity of which the foreign key is located. 
+Another little detail is, that we do not care about "smallint". We use int for everything.
+
+
 03.09.
 Today we talked about normalization. 
 The first problem to tackle is redundancy. You want every value saved just once. Otherwise, if you change one value, the same key can point to different values and it is impossible to know, wich is the true value. 
