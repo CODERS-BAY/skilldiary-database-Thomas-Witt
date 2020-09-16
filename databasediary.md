@@ -1,3 +1,52 @@
+16.09.
+Today, as 3 members of our group were missing, instead of going ahead in the curriculum, we had the task to create a small presentation about DataBaseManagingSystems. And, in between, we reflected the cinema- and the airways-erm with Stefan and he gave us pointers. 
+But here is what i have for presentation so far:
+
+Network DataBaseManagementSystem
+The Network DatabaseManagementsystem was introduced by IBM in late 1960s & early 70s, to solve some of the problems the Hirachical DatabaseManagementsystem had, especially the lack of flexibility. It was adapted and improved by the CODASYL Data Base Task Group and is therefore sometimes called the CODASYL model. CODASYL stands for Conference/Committee on Data Systems Languages.
+To understand the system (or more accurate it's improvements), we first have to take a look at the Hirachical system:
+The hirachical system is basically the same way, businesses organiced their data for ages, but on computer. Before that, people phisically wrote down stuff on paper and stored them in a convenient place (like a shoebox). To get to the data, you litterally had to moove your ass and go to the shoebox and look inside, to check if the data you were looking for was in there. If it wasn't in there you probably had to go to another shoebox.
+The hirachical system basically did the same, but on Computers. If you searched for a file, the system had to check folder by folder. This is calle a Top-down-system. It was inefficent and also had other problems. For example people tendet do be blocked by the search queries from other people. So some of them copied some files, so they had easier access. But that led to bloated data and anomalies (which file was the accurate one?).
+The Network DataBaseManagementSystem was invented to fix some of these problems. The basic difference was, that records could have more than one owner:
+ 
+children "members" and the parents "owners"
+
+Advantages of NetworkDBMS: 
+- Still relatively easy to understand
+	- Similar conceptually to hirachical DBMS
+- Able to adapt to business processes
+	- Able to capture more complex relationships
+- You can manage m to n relationships
+- More flexibel than hirachical DBMS, although it still lacks fexibility
+
+Disadvantages:
+- Did not eliminate hirachical DB- problems
+	- Slow to adapt or modify
+	- heavily relied on experts
+	- Bloated data and/or anomalies
+	- Expensive
+
+Some of the popular network databases are,
+
+ -   Integrated Data Store (IDS)
+-    IDMS (Integrated Database Management System)
+	- CA IDMS (IUA EIUA) Global User Community
+	- AID - Anwendervereinigung IDMS Deutschland
+	- Australian IDMS User Group
+	 etc
+-    Raima Database Manager
+	- Mitsubishi Electric—iQ Platform C Controller PLC
+	- Boeing—"AWACS"– Airborne Warning and Control System's radar electronics system
+	- Siemens—RapidPoint 400 medical fluid test equipment
+	- IBM—ClearCase source code control system
+-    TurboIMAGE
+-    Univac DMS-1100
+
+The Network DataBaseManagementSystem was eventually replaced by the relational model.
+
+
+
+
 09.09.
 Today Stefan showed us on the excercise "hotel" how he identifies Entities and how he sets relationships. (He thought he gave us this as homework, but we all can't remember him saying so. Acording to him, this has never happened to him (Speaking of Stefan: I realy doubt, that he reeds our diaries. At least not right away. Stefan: if you are reading this before 16.09.2020, come to me and tell me "I read it", and then i will by you a sixpac of Freistädter Bier)). 
 After that we made ERDs and RMs of the excercises "E-learning" and "Cinema". 
