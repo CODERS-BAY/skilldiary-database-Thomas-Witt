@@ -1,3 +1,9 @@
+23.09
+
+Today we made presentations about Database management systems. I presented the Network DBMS. I did not retain any usefull information from the other presentations.
+Afterwords we took the rest of the day to write the Database-Test. Luckily for me, it was the same test i took at the beginning of the year and my answers were still there. But for the purpose of this excercise i deleted the answers and wrote again what i knew. The Cod-Rules i left in place cause them i did not know any more.
+
+
 16.09.
 Today, as 3 members of our group were missing, instead of going ahead in the curriculum, we had the task to create a small presentation about DataBaseManagingSystems. And, in between, we reflected the cinema- and the airways-erm with Stefan and he gave us pointers. 
 But here is what i have for presentation so far:
