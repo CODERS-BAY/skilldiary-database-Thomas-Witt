@@ -1,3 +1,14 @@
+30.09.
+
+Today we learned SQL wich stands for "Structured Query Language". To use SQL you first have to start XAMPP and start the Apache and the MySQL Modules. Than you go to your browser and type in "localhost". Then go to phpMyAdmin. In this Window you can create new Databases (on the very left -> new -> Database name -> create). When you have a new DB go on the tab SQL and write:
+CREATE TABEL Tabelname (
+	ID int,
+	name varchar(32),
+	salery int
+);
+In this maner you create a tabel for every entity. To fill this Tabels you select it on the left and chose the tab "Insert".
+
+
 23.09
 
 Today we made presentations about Database management systems. I presented the Network DBMS. I did not retain any usefull information from the other presentations.
